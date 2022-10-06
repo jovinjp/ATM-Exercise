@@ -1,0 +1,12 @@
+styles.css
+button {
+  background-color: #000509;
+  border: 6px solid #f4b106;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
